@@ -7,7 +7,7 @@
 //
 
 #import "CommonCells.h"
-#import "AroundKindModel.h"
+#import "AroundKindModel.h" 
 @interface CommonCells (SetModel)
 
 @property (nonatomic, strong)AroundKindModel *Model;
